@@ -5,6 +5,6 @@ Analyzing the most common topics of recent ML research.
 
 These papers discuss a wide variety of topics in machine learning, from neural networks to optimization methods and many more.
 
-<img src="https://assets.datacamp.com/production/project_158/img/nips_logo.png" alt="The logo of NIPS (Neural Information Processing Systems)"></p>
+ ![The logo of NIPS (Neural Information Processing Systems)](https://assets.datacamp.com/production/project_158/img/nips_logo.png)
 
 <p>First, we will get the most recent NIPS papers dataset from kaggle then we will explore it to determine what type of data we can use for the analysis and how it is structured. A research paper typically consists of a title, an abstract and the main text. Other data such as figures and tables were not extracted from the PDF files. Each paper discusses a novel technique or improvement. In this analysis, we will focus on analyzing these papers with natural language processing methods.</p>
